@@ -9,3 +9,7 @@
  ## Weekest Link
 
  ![Weekest](weekest-link.png)
+
+ ## Components of an ACS
+
+ ![Components](components-of-ACS.png)
