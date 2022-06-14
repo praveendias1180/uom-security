@@ -21,3 +21,7 @@
  # Auth 2.0
 
  ![Auth 2.0](aoth20.png)
+
+ ## Avoid Password Grant!!
+
+ ![Password Grant](password-grant.png)
