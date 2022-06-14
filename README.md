@@ -17,3 +17,7 @@
  ## Google Docs Phishing Attacks
 
  ![Phishing](phishing.png)
+
+ # Auth 2.0
+
+ ![Auth 2.0](aoth20.png)
