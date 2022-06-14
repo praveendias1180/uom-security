@@ -25,3 +25,9 @@
  ## Avoid Password Grant!!
 
  ![Password Grant](password-grant.png)
+
+ ## CSRF
+
+Attackers session is injected to the victim.
+
+ ![CSRF](csrf.png)
