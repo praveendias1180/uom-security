@@ -35,3 +35,8 @@ Attackers session is injected to the victim.
  # What is Authorization
 
  ![Auth](auth.png)
+
+ The Holy Grail of IAM: Getting to Grips with Authorization
+ https://www.youtube.com/watch?v=hVZXes6koCY
+
+ 
