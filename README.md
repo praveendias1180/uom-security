@@ -32,11 +32,20 @@ Attackers session is injected to the victim.
 
  ![CSRF](csrf.png)
 
- # What is Authorization
+# What is Authorization
 
- ![Auth](auth.png)
+![Auth](auth.png)
 
- The Holy Grail of IAM: Getting to Grips with Authorization
- https://www.youtube.com/watch?v=hVZXes6koCY
+The Holy Grail of IAM: Getting to Grips with Authorization
+https://www.youtube.com/watch?v=hVZXes6koCY
 
- 
+Securing Single-page Applications with OpenID Connect, https://www.youtube.com/watch?v=tmKD2famPJc
+
+OAuth 2.0 Internals and Applications, https://www.youtube.com/watch?v=Bj8ob_I_DKo
+
+OAuth 2 0 Threat Landscape,
+https://www.youtube.com/watch?v=FBFEuP5ZVj0
+
+OpenID Connect Authentication Flows & Attack Vectors,
+https://www.youtube.com/watch?v=7crlL6wsn-M
+
