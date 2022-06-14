@@ -31,3 +31,7 @@
 Attackers session is injected to the victim.
 
  ![CSRF](csrf.png)
+
+ # What is Authorization
+
+ ![Auth](auth.png)
